@@ -463,6 +463,13 @@ mediainfo-gui
 
 
 ##
+## Network
+##
+
+network-manager-applet
+
+
+##
 ## Develop
 ##
 
@@ -472,6 +479,29 @@ tree
 bat
 php
 python-pygithub
+
+
+##
+## Qt
+##
+
+## for qt5ct.conf [style=gtk2]
+qt5-styleplugins
+
+
+##
+## Panel
+##
+
+tint2
+
+
+##
+## Cursor
+##
+
+xcursor-breeze
+
 
 ##
 ## Tail: Arch Package
