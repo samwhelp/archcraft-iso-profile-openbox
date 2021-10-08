@@ -5,6 +5,10 @@
 *  GitHub / archcraft-os / [archcraft](https://github.com/archcraft-os/archcraft)
 
 
+## Note
+
+* use lightdm
+
 ## iso-profile
 
 | iso-profile |
@@ -20,7 +24,7 @@
 | [customize_airootfs.sh](adjustment-start/airootfs/root/customize_airootfs.sh) | custom your favorite action |
 
 
-## Add Packages
+## Add Archcraft Adjustment Packages
 
 | Package | Note |
 | --- | --- |
