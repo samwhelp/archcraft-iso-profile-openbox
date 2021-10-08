@@ -17,7 +17,7 @@
 | [adjustment-start-from-21.10](iso-profile/adjustment-start-from-21.10) | sddm |
 
 
-## Archcraft iso-profile
+## Archcraft / iso-profile
 
 | Archcraft | Archcraft Adjustment |
 | --- | --- |
