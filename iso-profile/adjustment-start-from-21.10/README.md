@@ -19,8 +19,8 @@
 
 | Path | Note |
 | --- | --- |
-| [packages.x86_64](adjustment-start/packages.x86_64) | add your favorite packages |
-| [customize_airootfs.sh](adjustment-start/airootfs/root/customize_airootfs.sh) | custom your favorite action |
+| [packages.x86_64](profile/packages.x86_64) | add your favorite packages |
+| [customize_airootfs.sh](profile/airootfs/root/customize_airootfs.sh) | custom your favorite action |
 
 
 ## Add Archcraft Adjustment Packages
